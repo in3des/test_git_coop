@@ -15,6 +15,7 @@ public class test01 {
 
     public static void main(String[] args) {
         s = "Git неmoshb";
+        s = "Git неmoshb";
 
         String a = "asd";
     }
