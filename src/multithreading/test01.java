@@ -1,8 +1,5 @@
 package multithreading;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class test01 {
 
     Thread thread = new Thread();
@@ -14,7 +11,8 @@ public class test01 {
 
     static String s = "Git МОЩЬ!";
 
-
-
+    public static void main(String[] args) {
+        s = "Git неmoshb";
+    }
 
 }
