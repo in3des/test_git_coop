@@ -15,7 +15,7 @@ public class test01 {
 
     public static void main(String[] args) {
         s = "Git неmoshb";
-        s = "Git неmoshb";
+        s = "Test rebase";
 
         String a = "asd";
     }
