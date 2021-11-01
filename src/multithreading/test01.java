@@ -12,7 +12,11 @@ public class test01 {
 
 
 
-    String s = "Git МОЩЬ!";
+    static String s = "Git МОЩЬ!";
+
+    public static void main(String[] args) {
+        s = "Git неmoshb";
+    }
 
     List<String> list1 = new ArrayList<>();
     {
