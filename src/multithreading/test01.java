@@ -20,7 +20,7 @@ public class test01 {
 
     List<String> list1 = new ArrayList<>();
     {
-        list1.add(s);
+        list1.add(s+1);
     }
 
 }
