@@ -14,13 +14,7 @@ public class test01 {
 
     static String s = "Git МОЩЬ!";
 
-    public static void main(String[] args) {
-        s = "Git неmoshb";
-    }
 
-    List<String> list1 = new ArrayList<>();
-    {
-        list1.add(s+1);
-    }
+
 
 }
