@@ -18,6 +18,7 @@ public class test01 {
         s = "Test rebase";
         s = "Test rebase2";
         s = "Test rebase3";
+        s = "Test rebase4";
 
         String a = "asd";
     }
